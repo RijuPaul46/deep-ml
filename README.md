@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-10-29 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-22 | [solution](problems/0801-polynomial-regression-fit) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-11-01 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-11-01 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-26 | [solution](problems/0020-decision-tree-learning) |
 
 ---
